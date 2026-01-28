@@ -1,5 +1,8 @@
 # Title: Lab Final and Quiz - ICT 21th batch (OOP 1.5 lab)
 
+## Name: Md Rakibul Islam
+## ID: IT-24029
+
 ## Question 1: Encapsulation & Validation
 Design a class Student with private attributes id, name, and cgpa.
 
